@@ -1,0 +1,31 @@
+@import './_variables'
+
+.card
+    margin: 20px
+    width: 400px
+    box-shadow: 0px 0px 15px 2px lightgrey
+
+    .cardBody
+        padding: 0 15px
+
+        .title
+            font-weight: bolder
+            font-size: 1.1em
+
+        .price span
+            font-weight: bolder
+
+    .discoverMore
+        cursor: pointer
+        text-align: center
+        border-top: 1px solid grey
+        padding: 17px 0
+        color: black
+        margin-top: 15px
+        background: $color1
+        background: linear-gradient(to top, $colorMain 50%, $color1 50%) top
+        background-size: 100% 200%
+        transition: .3s ease-out
+        &:hover
+            background-position: bottom
+            color: white

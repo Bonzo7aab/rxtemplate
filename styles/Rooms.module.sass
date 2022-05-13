@@ -1,0 +1,73 @@
+@import './_variables'
+
+.rooms
+    text-align: center
+    width: 80vw
+    margin: auto
+    padding-bottom: 40px
+    margin-bottom: 40px
+    border-bottom: 1px solid lightgrey
+
+    .roomImage
+        position: relative
+
+        img
+            width: 100%
+            opacity: .7
+        .title
+            position: absolute
+            top: 50%
+            left: 50%
+            transform: translateX(-50%) translateY(-50%)
+            font-size: 4em
+            font-weight: bolder
+            background-color: rgba(253, 251, 244, .7 )
+
+        .surface
+            position: absolute
+            bottom: 50px
+            background-color: $color1
+            padding: 10px 10px 10px 20px
+            font-size: 1.6em
+            font-weight: bolder
+            margin-right: 20px
+
+    .description
+        width: 50%
+        margin: 40px auto
+        line-height: 1.4
+
+    .tags
+        display: grid
+        grid-template-columns: repeat(2, 1fr)
+        width: 55%
+        margin: 60px auto
+
+        .tag
+            width: 90%
+            padding: 5px 0
+            font-size: .9em
+            text-align: left
+            border-bottom: 1px solid lightgrey
+
+    .bookNow
+        width: 50%
+        margin: 20px auto
+        border: 1px solid lightgrey
+
+        .price
+            margin: 20px 0
+
+        .bookNowButton
+            width: 50%
+            margin: auto
+            padding: 20px
+            cursor: pointer
+            font-size: 1.2em
+            border: 1px solid black
+            margin-bottom: 20px
+            &:hover .bookNowText
+                margin-left: 10px
+
+            .bookNowText
+                transition: .3s ease-in-out

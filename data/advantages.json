@@ -1,0 +1,27 @@
+[ 
+    {
+        "title": "View to the lake",
+        "description": "The vicinity of Karpacz captivates with its beauty, and Sosnówka, a village with a unique lake among the mountains, is an idyllic, extremely peaceful place, perfect for spending your vacation here. Regardless of the season, you can enjoy the advantages of the hotel in the vicinity of Karpacz and discover the charms of the Polish mountains on your own, in pairs, with family or friends.",
+        "imageUrl": "/wide1.jpg"
+    },
+    {
+        "title": "Coffee from best beans",
+        "description": "The real rest begins with a cup of aromatic coffee, let anyone who is curious have a drink ...ElWell is 12 well-equipped rooms of a three-star hotel standard. Coffee machines in each of them and a communal kitchen allow an unlimited amount of coffee at any time of the day or night.",
+        "imageUrl": "/wide2.jpg"
+    },
+    {
+        "title": "Spa with sauna",
+        "description": "After an eventful day, choose a proposal tailored to your preferences and allow yourself to fully relax while listening to soothing music. Our offer of saunas is tailored to the different needs of guests, but it is united by the fact that it perfectly toughens and cleanses the body, ensures relaxation, and at the same time stimulates regenerative processes.",
+        "imageUrl": "/wide3.jpg"
+    },
+    {
+        "title": "Have fun - Bilard",
+        "description": "The sheer volume of duties means that we have little time every day to spend our time the way we like the most. That is why it is sometimes worth going for a weekend to indulge in your favorite pastime. In the Zamek Gniew hotel you will find a full-size billiard table. By playing a few games you will be able to relax and forget about everyday problems.",
+        "imageUrl": "/wide4.jpg"
+    },
+    {
+        "title": "Healthy and nutritious meals",
+        "description": "When preparing meals, we use, among others products (mostly) from our own crops (we do not use artificial fertilizers). The kitchen is easy to digest, tasty, natural, hygienic (staff work in disposable gloves) and healthy. Breakfasts are served in the form of a Swedish buffet, and dinners - at the table.",
+        "imageUrl": "/wide5.jpg"
+    }
+]
